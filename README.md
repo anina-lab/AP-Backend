@@ -2,9 +2,9 @@
 
 Proyecto Final para el curso #YoProgramo, Argentina Programa 2022.
 
-- [Repositorio Backend](https://github.com/anina-lab/AP-Backend, "Backend")
-- [Repositorio Frontend](https://github.com/anina-lab/AP-Frontend, "Frontend")
-- [WEB](https://anina-lab.web.app/, "WEB")
+- [Repositorio Backend](https://github.com/anina-lab/AP-Backend)
+- [Repositorio Frontend](https://github.com/anina-lab/AP-Frontend)
+- [WEB](https://anina-lab.web.app/)
 
 <img src="https://raw.githubusercontent.com/anina-lab/AP-Frontend/main/src/assets/Proyecto1.png">
 
